@@ -1,0 +1,8 @@
+# Regra de negocio para estudantes
+
+Roles:
+    Devemos conseguir somar as notas dos alunos;
+    Se caso uma nota for 0, a soma deve ser 0;
+    Caso o aluno tenha mais de 5 notas a soma deve ser multiplicado por 2;
+    
+
